@@ -1,12 +1,18 @@
 # leetcode coding record
 
-*This book is property of the Half-Blood Prince*
-
-:)
+*This book is property of the Half-Blood Prince* :)
 
 ## [数组](./数组/)
 
+lc1:两数之和
+
 lc26:删除有序数组中的重复项 
+
+lc36: 有效的数独
+
+lc48:旋转图像
+
+lc66:加一
 
 lc122:买卖股票的最佳时机 II
 
@@ -15,6 +21,8 @@ lc136:只出现一次的数字
 lc189:轮转数组
 
 lc217:存在重复元素
+
+lc283:移动零
 
 lc350:两数交集 II
 
@@ -31,3 +39,7 @@ lc136:只出现一次的数字
 lc217:存在重复元素
 
 lc350:两数交集 II
+
+## [字符串](./字符串/)
+
+lc344:反转字符串
